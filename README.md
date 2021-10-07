@@ -1,2 +1,5 @@
 # ML2021Lijie  
-机器学习课程的三个lab实验
+Three labs for Machine Learning course, Jie Li, 2021 Spring.  
+1. Regression
+2. Classification
+3. Clustering
